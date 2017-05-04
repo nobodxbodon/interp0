@@ -1,0 +1,21 @@
+{
+  "name": "interp0",
+  "version": "1.0.0",
+  "description": "the L Programming Language interpreter.",
+  "main": "main.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NER000/interp0.git"
+  },
+  "keywords": [
+  ],
+  "author": "NER0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NER000/interp0/issues"
+  },
+  "homepage": "https://github.com/NER000/interp0#readme"
+}
