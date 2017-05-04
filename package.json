@@ -1,6 +1,6 @@
 {
   "name": "interp0",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "the L Programming Language interpreter.",
   "main": "index.js",
   "scripts": {
